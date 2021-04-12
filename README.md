@@ -12,13 +12,22 @@ LB1: [Intro](https://www.goldshell.com/lb1-lbry-miner/)
 
 # Guide
 
-1. Download goldshellminer-gui-setup-2.0.0.exe 
+1. Download [goldshellminer-gui-setup-2.0.0.exe](https://github.com/goldshellminer/goldshellminer-gui/raw/main/goldshellminer-gui-setup-2.0.0.exe) 
 2. Double click and install it  
 3. Install windows driver ([Guide](https://www.goldshell.com/2021/03/31/mini-miner-usb-driver-installation-guide/))
 4. Open the application and enjoy mining
 
 
 # Screenshot
+guide:  
+![image](https://raw.githubusercontent.com/goldshellminer/goldshellminer-gui/main/screenshot/guide.png)
+
+overview 1:  
+![image](https://raw.githubusercontent.com/goldshellminer/goldshellminer-gui/main/screenshot/overview_1.png)
+
+
+overview 2:  
+![image](https://raw.githubusercontent.com/goldshellminer/goldshellminer-gui/main/screenshot/overview_2.png)
 
 
 
