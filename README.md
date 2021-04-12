@@ -1,2 +1,24 @@
-# goldshellminer-gui
-mining software for goldshell mini asic-miner
+# Introduction
+
+It ONLY supports Windows OS currently.  
+
+This is the official mining software for goldshell mini asic-miner.  
+It supports mining with goldshell mini asic miners (HS1, HS1-Plus and LB1) . 
+
+HS1: [Intro](https://www.goldshell.com/hs1-handshake-miner-intro/)   
+HS1-Plus: [Intro](https://www.goldshell.com/hs1-plus-handshake-miner/)   
+LB1: [Intro](https://www.goldshell.com/lb1-lbry-miner/)  
+
+
+# Guide
+
+1. Download goldshellminer-gui-setup-2.0.0.exe 
+2. Double click and install it  
+3. Install windows driver ([Guide](https://www.goldshell.com/2021/03/31/mini-miner-usb-driver-installation-guide/))
+4. Open the application and enjoy mining
+
+
+# Screenshot
+
+
+
