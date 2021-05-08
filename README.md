@@ -10,6 +10,8 @@ HS1-Plus: [Intro](https://www.goldshell.com/hs1-plus-handshake-miner/)
 LB1: [Intro](https://www.goldshell.com/lb1-lbry-miner/)  
 
 
+Mining Tutorial:  [Tutorial](https://www.goldshell.com/2021/03/31/goldshell-lb1-mining-tutorial/)
+
 # Guide
 
 1. Download [goldshellminer-gui-setup-2.0.2.exe](https://github.com/goldshellminer/goldshellminer-gui/raw/main/goldshellminer-gui-setup-2.0.2.exe) 
